@@ -64,10 +64,10 @@ The system consists of:
 ## Screenshots
 
 ### Start of Game
-![Start of game]<img width="600" height="322" alt="Image" src="https://github.com/user-attachments/assets/fdce0597-80df-426b-9881-a2920f595e83" />
+<img width="600" height="322" alt="Image" src="https://github.com/user-attachments/assets/fdce0597-80df-426b-9881-a2920f595e83" />
 
 ### Gameplay in Progress
-![Gameplay in progress](screenshots/gameplay-running.png)
+<img width="598" height="357" alt="Image" src="https://github.com/user-attachments/assets/c39a958e-4e3d-403e-a755-c28eb2d3655c" />
 
 ### Game Over
 <img width="596" height="329" alt="Image" src="https://github.com/user-attachments/assets/2651cdad-4dfc-41a0-a113-6a72c6e8abde" />
