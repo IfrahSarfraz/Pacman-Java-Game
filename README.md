@@ -64,7 +64,7 @@ The system consists of:
 ## Screenshots
 
 ### Start of Game
-![Start of game](<img width="600" height="322" alt="Image" src="https://github.com/user-attachments/assets/fdce0597-80df-426b-9881-a2920f595e83" />)
+![Start of game]<img width="600" height="322" alt="Image" src="https://github.com/user-attachments/assets/fdce0597-80df-426b-9881-a2920f595e83" />
 
 ### Gameplay in Progress
 ![Gameplay in progress](screenshots/gameplay-running.png)
