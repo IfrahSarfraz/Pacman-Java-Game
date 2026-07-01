@@ -70,7 +70,7 @@ The system consists of:
 ![Gameplay in progress](screenshots/gameplay-running.png)
 
 ### Game Over
-![Game over screen](screenshots/gameover.png)
+<img width="596" height="329" alt="Image" src="https://github.com/user-attachments/assets/2651cdad-4dfc-41a0-a113-6a72c6e8abde" />
 
 ---
 
