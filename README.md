@@ -136,7 +136,7 @@ Pacman-Java-Game/
 
 Detailed project documentation is available in:
 
-* [`Project_Report.pdf`][(Project_Report.pdf)](https://github.com/IfrahSarfraz/Pacman-Java-Game/blob/dd664a9406a622c8fcd0803c374900f0941e53bb/Project%20Report.pdf)
+* [`Project_Report.pdf`][Project Report.pdf](https://github.com/user-attachments/files/29561478/Project.Report.pdf)
 
 The report includes:
 
